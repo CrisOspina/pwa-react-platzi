@@ -1,4 +1,4 @@
-# Curso de PWA (Progressive Web App) con React en Platzi
+# Curso de PWA 👉 Progressive Web App con ReactJS ⚛️
 
 ## Scripts
 
@@ -13,9 +13,7 @@
   <img src="https://user-images.githubusercontent.com/38017835/64213488-bfbdee80-ce72-11e9-9481-37a27136fa9a.PNG">
 </p>
 
-## Deploying on Now.sh
-
-[https://platzi-recetas.now.sh](https://platzi-recetas.now.sh)
+## Deploying on Now.sh 👉 [https://platzi-recetas.now.sh](https://platzi-recetas.now.sh)
 
 ### Licencia
 
